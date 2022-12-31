@@ -1,0 +1,8 @@
+{
+  "name":"app/speediocnpj",
+  "autoload": {
+    "psr-4": {
+      "App\\":"app/"
+    }
+  }
+}
